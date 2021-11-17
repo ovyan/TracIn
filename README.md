@@ -1,7 +1,7 @@
 # TracIn
 Reproducing TracIn (Tracing Gradient Descent) using PyTorch and MNIST dataset.
 
-Original paper [Implementation of Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
+Original Paper [Implementation of Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
 
 Original Repo https://github.com/frederick0329/TracIn
 
